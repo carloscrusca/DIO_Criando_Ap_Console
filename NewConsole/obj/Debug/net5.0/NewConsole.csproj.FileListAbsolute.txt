@@ -1,0 +1,15 @@
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/bin/Debug/net5.0/NewConsole.deps.json
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/bin/Debug/net5.0/NewConsole.runtimeconfig.json
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/bin/Debug/net5.0/NewConsole.runtimeconfig.dev.json
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/bin/Debug/net5.0/NewConsole.dll
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/bin/Debug/net5.0/ref/NewConsole.dll
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/bin/Debug/net5.0/NewConsole.pdb
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.csprojAssemblyReference.cache
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.AssemblyInfoInputs.cache
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.AssemblyInfo.cs
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.csproj.CoreCompileInputs.cache
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.dll
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/ref/NewConsole.dll
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.pdb
+/Users/carloscrusca/Documents/GitHub/DIO_Criando_Ap_Console/NewConsole/obj/Debug/net5.0/NewConsole.genruntimeconfig.cache
